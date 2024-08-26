@@ -1,3 +1,3 @@
 # WU2---Sommar
 
-Enkel webbsida
+Enkel webbplats

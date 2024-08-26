@@ -1,0 +1,29 @@
+* {
+    line-height: 1.5rem;
+}
+
+div {
+    
+}
+
+.top {
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#image {
+    width: 15rem;
+    padding-top: 1.4rem;
+}
+.center {
+    text-align: center;
+}
+
+.bottomText {
+    font-size: 1.2rem;
+}
+
+.indented {
+    padding-left: 1rem;
+}
